@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Rubik's Cube",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "imageUrl": "http://pngimg.com/uploads/rubik_cube/rubik_cube_PNG11.png",
+      "price": 300
+    },
+    {
+      "id": 2,
+      "name": "Rubik's Cube 2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "imageUrl": "http://pngimg.com/uploads/rubik_cube/rubik_cube_PNG14.png",
+      "price": 390
+    },
+    {
+      "id": 3,
+      "name": "Rubik's Cube 3",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR608TWmLRWFNYPlY5xgKkgZPYe7mwv0GDMDtAS9nRdlVo4aytG",
+      "price": 300
+    },
+    {
+      "id": 4,
+      "name": "Rubik's Cube",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "imageUrl": "http://pngimg.com/uploads/rubik_cube/rubik_cube_PNG16.png",
+      "price": 500
+    },
+    {
+      "id": 5,
+      "name": "Rubik's Cube 5",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "imageUrl": "https://purepng.com/public/uploads/large/purepng.com-rubiks-cube3-d-combination-puzzlerubikcubeclassicclipartpuzzle-1421526591370jxrch.png",
+      "price": 200
+    },
+    {
+      "id": 6,
+      "name": "Rubik's Cube 6",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "imageUrl": "http://steve-lovelace.com/wordpress/wp-content/uploads/2012/06/wikipedia-rubiks-cube.png",
+      "price": 550
+    },
+    {
+      "id": 7,
+      "name": "Rubik's Cube 7",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "imageUrl": "https://images.vexels.com/media/users/3/189863/isolated/preview/ba8bb206aa9555ce84c930cd99881017-rubiks-cube-illustration-by-vexels.png",
+      "price": 50
+    },
+    {
+      "id": 8,
+      "name": "Rubik's Cube 8",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "imageUrl": "https://s3.amazonaws.com/media-p.slid.es/uploads/monodeldiablo/images/145281/rubiks-cube-3d-y.png",
+      "price": 300
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 2,
+        "name": "Rubik's Cube 2",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "imgUrl": "http://pngimg.com/uploads/rubik_cube/rubik_cube_PNG14.png",
+        "price": 390
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Rubik's Cube",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "imageUrl": "http://pngimg.com/uploads/rubik_cube/rubik_cube_PNG11.png",
+        "price": 300
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 5,
+        "name": "Rubik's Cube 5",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "imageUrl": "https://purepng.com/public/uploads/large/purepng.com-rubiks-cube3-d-combination-puzzlerubikcubeclassicclipartpuzzle-1421526591370jxrch.png",
+        "price": 200
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Rubik's Cube 2",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "imageUrl": "http://pngimg.com/uploads/rubik_cube/rubik_cube_PNG14.png",
+        "price": 390
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Rubik's Cube 3",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR608TWmLRWFNYPlY5xgKkgZPYe7mwv0GDMDtAS9nRdlVo4aytG",
+        "price": 300
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Rubik's Cube 3",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR608TWmLRWFNYPlY5xgKkgZPYe7mwv0GDMDtAS9nRdlVo4aytG",
+        "price": 300
+      },
+      "id": 6
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
